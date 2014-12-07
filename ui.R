@@ -13,7 +13,8 @@ shinyUI(fluidPage(
                         p("Using a Vitamin C supplement will increase the size and beauty of your rodent's teeth.  
                           Choose the delivery vehicle using the radio button and the slider bar to specify dosage.
                           The chart line will highlight the range of possible effect on your pet's teeth as demonstrated by our advanced
-                          clinical trials. Experiment yourself and see if your results are the same as ours!
+                          clinical trials. As you move the slider, a vertical line will move along with your selection.  When you 
+                          Experiment on your own hamster and see if your results fall into the same range as ours!
                           Send your results to:"),
                         h5("HamstersWelfare@gmail.com"),
                         p("and we'll add them to our data set."),
